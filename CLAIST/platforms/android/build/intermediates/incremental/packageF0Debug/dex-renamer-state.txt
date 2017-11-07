@@ -1,4 +1,0 @@
-#Tue Nov 07 17:42:07 ICT 2017
-base.0=F\:\\Developer\\NativeScript\\CLAIST\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=F\:\\Developer\\NativeScript\\CLAIST\\platforms\\android\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex
