@@ -1,0 +1,10 @@
+<!--
+This is the component view that represents the 'Home' tab.
+Feel free to customize layouts and components to change how the tab view looks.
+-->
+ 
+<DockLayout stretchLastChild="true">
+<StackLayout height="600px">
+    <TextField dock="bottom" text="bottom" height="50" style="margin: 5;" />
+</StackLayout>
+</DockLayout>
